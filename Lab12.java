@@ -1,4 +1,5 @@
 package lab12;
+#Basic calculation
 public class Lab12 {
 	public boolean checkEven(int number) {
 		if(number%2==0) {

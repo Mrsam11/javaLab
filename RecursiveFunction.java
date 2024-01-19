@@ -1,5 +1,4 @@
 package lab12;
-
 public class RecursiveFunction {
 	public int addNumbers(int num) {
 		if(num == 0) {
